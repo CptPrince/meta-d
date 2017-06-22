@@ -1,0 +1,12 @@
+Package: metad
+Type: Package
+Title: Calculate Meta-d
+Version: 0.1.0
+Author: Brain Maniscalco, Hakwan Lau, Musen Li
+Maintainer: Musen Li <lms13@mails.tsinghua.edu.cn>
+Description: This package uses maximum likelihood estimation to estimates meta-d' as well as basic type 1 SDT parameters, and also estimates response-specific meta-d'.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: nloptr
+RoxygenNote: 6.0.1
